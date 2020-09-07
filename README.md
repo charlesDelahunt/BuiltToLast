@@ -1,8 +1,8 @@
 # BuiltToLast
-This repository contains code for the paper "Built to Last: Functional and Structural Mechanisms in the Moth Olfactory Network that Mitigate Effects of Neural Injury" by CB Delahunt, PD Maia, and JN Kutz, January 2018.
+This repository contains Matlab code for the paper "Built to Last: Functional and Structural Mechanisms in the Moth Olfactory Network that Mitigate Effects of Neural Injury", by CB Delahunt, PD Maia, and JN Kutz (in review).
 
-Jan 26 2018: We are currently refactoring the Matlab code for easier use.
+To run simulations: 'runInjurySimulationsMain.m'
 
-If you have questions or comments, or wish to access material not yet posted, please email Charles Delahunt at delahunt@uw.edu
+If you have questions or comments, please email Charles Delahunt at delahunt@uw.edu
 
-Thank you! 
+Thank you for your interest in our work! 
